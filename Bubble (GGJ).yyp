@@ -30,13 +30,18 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Bubble (GGJ)",
-  "resources":[],
+  "resources":[
+    {"id":{"name":"Rm_Leval1","path":"rooms/Rm_Leval1/Rm_Leval1.yy",},},
+    {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
+  ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Rm_Leval1","path":"rooms/Rm_Leval1/Rm_Leval1.yy",},},
+  ],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},

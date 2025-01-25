@@ -34,6 +34,7 @@
   },
   "name":"Bubble (GGJ)",
   "resources":[
+    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"rm_Leval1","path":"rooms/rm_Leval1/rm_Leval1.yy",},},
     {"id":{"name":"rm_Test_Room","path":"rooms/rm_Test_Room/rm_Test_Room.yy",},},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
@@ -41,8 +42,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_Leval1","path":"rooms/rm_Leval1/rm_Leval1.yy",},},
     {"roomId":{"name":"rm_Test_Room","path":"rooms/rm_Test_Room/rm_Test_Room.yy",},},
+    {"roomId":{"name":"rm_Leval1","path":"rooms/rm_Leval1/rm_Leval1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
